@@ -1,0 +1,2 @@
+module stack01 {
+}
